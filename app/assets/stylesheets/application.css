@@ -50,7 +50,8 @@ td{
 }
 
 .error-message{
-  margin: 33px;
+  width: 400px;
+  margin: 33px auto 33px;
   font-size: 12px;
 }
 
